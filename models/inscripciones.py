@@ -1,4 +1,4 @@
-class Usuario:
+class Inscripcion:
     def __init__(self) -> None:
         pass
 
